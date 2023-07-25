@@ -1,0 +1,22 @@
+{
+  "name": "@fmtorre/bunchofjs",
+  "version": "1.0.0",
+  "description": "Just a bunch of JS on NPM",
+  "main": "justhello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felmoltor/bunchofjs.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Felipe Molina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felmoltor/bunchofjs/issues"
+  },
+  "homepage": "https://github.com/felmoltor/bunchofjs#readme"
+}
